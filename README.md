@@ -1,7 +1,7 @@
 # cypress_demo
 This is my first Git Repository.
 <br>
-Auther - Karan Soniminde
+Author - Karan Soniminde
 <br>
 Employee ID - 9321
 <br>
